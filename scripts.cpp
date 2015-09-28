@@ -21,6 +21,6 @@ printf("Masukkan nilai a : \n");scanf("%d",&a);
 printf("Masukkan nilai b : \n");scanf("%d",&b);
 printf("Masukkan nilai c : \n");scanf("%d",&c);
 AkarKuadrat(a,b,c);
-printf("\nNama:Olivinintya Nur Oceany NIM:D400150122 ");
+printf("\nNama:Olivinintya Nur Oceany NIM:D400150134 ");
 return 0;
 }
